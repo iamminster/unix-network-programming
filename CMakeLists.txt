@@ -3,4 +3,4 @@ project(network_programming_beginner C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(network_programming_beginner server.c client.c showip.c)
+add_executable(network_programming_beginner server.c client.c showip.c speak.c tick.c)
